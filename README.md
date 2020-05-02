@@ -1,2 +1,4 @@
-# javaStudyRecord
-本菜鸟的java学习记录
+#java学习记录
+
+##目录
+###系统设计
